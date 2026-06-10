@@ -68,10 +68,6 @@ Showcases high-quality food images.
 
 Provides information about the restaurant and its mission.
 
-### Contact
-
-Contains contact details and social media links.
-
 ---
 
 ## Learning Outcomes
