@@ -55,10 +55,8 @@ Displays popular food items such as:
 * Burger
 * Pasta
 * Finger Chips
-* Sandwich
-* Chicken Wings
-* Tacos
-* Chocolate Cake
+* Chicken Nuggets
+* Strawberry Cake
 
 ### Gallery
 
